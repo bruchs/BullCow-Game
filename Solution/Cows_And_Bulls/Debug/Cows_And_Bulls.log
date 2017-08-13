@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\unreal classes\lesson 3\solution\cows_and_bulls\main.cpp(45): warning C4018: '<': no coinciden signed/unsigned
+  FBullCowGame.cpp
+  Generando código...
+d:\unreal classes\lesson 3\solution\cows_and_bulls\fbullcowgame.cpp(49): warning C4715: 'FBullCowGame::CheckGuess': no todas las rutas de acceso de control devuelven un valor
+d:\unreal classes\lesson 3\solution\cows_and_bulls\main.cpp(125): warning C4715: 'IsPlayingAgain': no todas las rutas de acceso de control devuelven un valor
+  Cows_And_Bulls.vcxproj -> D:\Unreal Classes\Lesson 3\Solution\Debug\Cows_And_Bulls.exe
+  Cows_And_Bulls.vcxproj -> D:\Unreal Classes\Lesson 3\Solution\Debug\Cows_And_Bulls.pdb (Partial PDB)
